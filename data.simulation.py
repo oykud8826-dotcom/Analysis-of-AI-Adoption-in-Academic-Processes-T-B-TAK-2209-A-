@@ -27,7 +27,6 @@ def generate_synthetic_data(n_students=200):
     }
     
     # Introduce a slight correlation: More AI usage -> Slightly higher GPA (Hypothesis)
-    # We add a small random factor to make it realistic
     df = pd.DataFrame(data)
     df['GPA'] = np.where(
         df['Weekly_AI_Hours'] > 10, 
