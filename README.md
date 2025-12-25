@@ -1,5 +1,4 @@
 # Analysis-of-AI-Adoption-in-Academic-Processes-T-B-TAK-2209-A-
-# 📊 Analysis of AI Adoption in Academic Processes (TÜBİTAK 2209-A)
 
 > **Project Status:** Active Research | **Role:** Project Lead & Researcher
 
@@ -8,7 +7,7 @@ This repository hosts the data analysis pipeline for my undergraduate research p
 
 The project aims to quantify how Gen-Z students integrate Artificial Intelligence tools (ChatGPT, Gemini, Midjourney) into their academic workflows and to measure the correlation between **AI usage frequency** and **academic performance (GPA)**.
 
-## 🎯 Key Objectives
+## Key Objectives
 - **Data Collection:** Conducting a comprehensive survey among 500+ undergraduate students across different faculties.
 - **Statistical Analysis:** Using Python (Pandas & SciPy) to test hypotheses regarding "AI dependency" and "Productivity".
 - **Trend Forecasting:** Predicting future adoption rates based on current usage patterns.
